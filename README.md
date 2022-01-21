@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @hannahshewan 
 
-- 🌱 I’m currently studying Electronic and Information Engineering at Imperial College London. Some particular highlights must include statistical analysis of communication signals, creating an information processing system and working towards creating a functional and efficient compiler!
+- 🌱 I’m currently studying Electronic and Information Engineering at Imperial College London. 
+
+- 💯 Some particular highlights must include statistical analysis of communication signals, creating an information processing system and working towards creating a functional and efficient compiler!
 
 - 👀 Keen to pursue career opportunities within the quantitative finance sector 
 
